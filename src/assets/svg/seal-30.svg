@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 140" role="img" aria-label="30-day guarantee seal">
+<path d="M42 92 L30 136 L46 126 L56 138 L62 100 Z" fill="#C3C7CB"/>
+<path d="M78 92 L90 136 L74 126 L64 138 L58 100 Z" fill="#9EA3A8"/>
+<path d="M60 6l8.6 6.8 10.8-1.4 4.2 10 10 4.2-1.4 10.8L99 45l-6.8 8.6 1.4 10.8-10 4.2-4.2 10-10.8-1.4L60 84l-8.6-6.8-10.8 1.4-4.2-10-10-4.2 1.4-10.8L21 45l6.8-8.6-1.4-10.8 10-4.2 4.2-10 10.8 1.4z" fill="none" stroke="#E6E7E8" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="60" cy="45" r="26" fill="none" stroke="#E6E7E8" stroke-width="1.6" opacity=".6"/>
+<text x="60" y="55" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#E6E7E8">30</text>
+</svg>

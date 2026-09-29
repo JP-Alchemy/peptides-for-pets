@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Close-up of the back label, batch number circled">
+<defs>
+<linearGradient id="amb" x1="0" x2="1"><stop offset="0" stop-color="#4A2206"/><stop offset=".4" stop-color="#B0651C"/><stop offset=".7" stop-color="#8E4712"/><stop offset="1" stop-color="#3A1904"/></linearGradient>
+<linearGradient id="lab" x1="0" x2="1"><stop offset="0" stop-color="#DDD7CA"/><stop offset=".25" stop-color="#F4F0E7"/><stop offset=".8" stop-color="#EDE8DC"/><stop offset="1" stop-color="#D2CBBD"/></linearGradient>
+<linearGradient id="sil" x1="0" x2="1"><stop offset="0" stop-color="#A3A7AB"/><stop offset=".3" stop-color="#ECEEEF"/><stop offset=".55" stop-color="#BCC0C4"/><stop offset=".8" stop-color="#F2F3F4"/><stop offset="1" stop-color="#9A9EA2"/></linearGradient>
+</defs>
+<rect width="800" height="600" fill="#E9E6DF"/>
+<rect x="90" y="-10" width="620" height="620" rx="40" fill="url(#amb)"/>
+<rect x="130" y="60" width="540" height="480" fill="url(#lab)"/>
+<rect x="130" y="440" width="540" height="100" fill="url(#sil)"/>
+<g font-family="Barlow, Helvetica, Arial, sans-serif" fill="#2B4739">
+<g transform="translate(170 96) scale(.34)"><path d="M14 0H82A14 14 0 0 1 96 14V82A14 14 0 0 1 82 96H47L30.5 129.5C27.6 135.3 22.4 138 16 138C7.2 138 0 130.8 0 122V14A14 14 0 0 1 14 0Z"/></g>
+<text x="214" y="116" font-size="22" font-weight="700">Skin &amp; Coat · Spray Gel</text>
+<text x="214" y="140" font-size="15" opacity=".8">Directions, ingredients and storage</text>
+<rect x="170" y="176" width="330" height="9" rx="4.5" opacity=".2"/>
+<rect x="170" y="200" width="420" height="9" rx="4.5" opacity=".2"/>
+<rect x="170" y="224" width="380" height="9" rx="4.5" opacity=".2"/>
+<rect x="170" y="248" width="250" height="9" rx="4.5" opacity=".2"/>
+<text x="170" y="304" font-size="15" letter-spacing="2" opacity=".75">STORE IN THE FRIDGE ONCE OPENED</text>
+<text x="205" y="382" font-size="31" letter-spacing="3" font-weight="700">BATCH  PFP-26-0914</text>
+<text x="205" y="418" font-size="17" letter-spacing="2" opacity=".75">MADE 09/2026 · BEST BEFORE 09/2027</text>
+</g>
+<path d="M186 386 C176 334 330 322 470 326 C610 330 640 364 612 402 C586 440 420 450 300 444 C222 440 180 424 188 388" fill="none" stroke="#B87333" stroke-width="6" stroke-linecap="round"/>
+<text x="400" y="500" text-anchor="middle" font-family="Barlow, Helvetica, Arial, sans-serif" font-size="14" letter-spacing="2" fill="#2B2F2D" opacity=".6">ILLUSTRATION · REAL LABEL PHOTO TO COME</text>
+</svg>
